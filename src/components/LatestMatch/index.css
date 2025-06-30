@@ -1,0 +1,43 @@
+.latest-match-list {
+  display: flex;
+  background-color: #1e293b;
+  background-size: cover;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.competingTeam-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.competingTeam {
+  font-size: 18px;
+}
+
+.date {
+  font-size: 15px;
+}
+
+.venue {
+  font-size: 12px;
+}
+
+.result {
+  font-size: 12px;
+}
+
+.firstInnings-heading {
+  font-size: 15px;
+}
+
+.firstInnings {
+  font-size: 12px;
+}
+
+.details-container{
+  text-align: end;
+}

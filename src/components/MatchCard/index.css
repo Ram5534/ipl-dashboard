@@ -1,0 +1,36 @@
+.match-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.won-status {
+  color: #18ed66;
+  font-size: 14px;
+  font-family: 'Bree Serif';
+}
+
+.lose-status {
+  color: #e31a1a;
+  font-size: 14px;
+  font-family: 'Bree Serif';
+}
+
+.competing-logo {
+  height: 160px;
+  width: 160px;
+  margin-top: 10px;
+}
+
+.competing-team{
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.res{
+  font-family: 'Bree Serif';
+  color: #ffffff;
+  font-size: 12px;
+}
